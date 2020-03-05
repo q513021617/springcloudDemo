@@ -1,0 +1,13 @@
+spring:
+  zipkin:
+    base-url: http://localhost:9411
+  cloud:
+    config:
+      uri: http://localhost:8888
+      name: hello-spring-cloud-admin-feign
+      label: master
+      profile: prod
+  boot:
+    admin:
+      client:
+        url: http://localhost:8084

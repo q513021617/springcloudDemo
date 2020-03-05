@@ -1,0 +1,4 @@
+com\funtl\itoken\admin\feign\config\RestTemplateConfiguration.class
+com\funtl\itoken\admin\feign\controller\AdminController.class
+com\funtl\itoken\admin\feign\AdminRibbonApplication.class
+com\funtl\itoken\admin\feign\Servcie\AdminService.class
